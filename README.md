@@ -1,3 +1,39 @@
+# perceptron.ipynb
+
+Implementing perceptron algorithm for classifying a linearly separable dataset in 2D.
+
+The code contains a function which create random points around a line .
+
+The plotting is done for different levels of separabality.
+
+**Observation** : The number of iterations required to perfectly classify the data decreases with increase the level of separability(gamma)
+
+# mini_batch_gradientdescent.ipynb
+
+Gradient descent for training a linear classifier
+
+The code contains a function which create random points around a line .
+
+**Hinge Loss** is used
+
+**Batch Size of 64**
+
+Plot the linear classifier after tesing .
+
+# MLP_one_hidden_layer.ipynb
+
+A binary classification dataset that is **not linearly separable** in 2D
+
+a **Multi layer perceptron (MLP) with a single hidden
+layer** for classifying
+
+**Cross Entropy Loss** is used
+
+**Backpropapagation**
+
+**Stochastic Gradient Descent** is used
+
+Finally accuracy checking on testing data.
 
 # convolution_and_pooling_functions.ipynb
 
